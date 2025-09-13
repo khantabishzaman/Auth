@@ -1,0 +1,11 @@
+* **Purpose**: Lists all project dependencies for installation.
+
+```text
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+passlib[bcrypt]
+python-jose[cryptography]
+python-dotenv
+pydantic[email]
